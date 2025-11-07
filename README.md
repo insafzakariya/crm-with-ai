@@ -97,7 +97,7 @@ CRM/
 
 1. **Clone the repository**
    ```bash
-   cd /Users/insafzakariya/Development/coding-place/CRM
+   cd /Users/Development/CRM
    ```
 
 2. **Install dependencies**
